@@ -1,4 +1,8 @@
-import working from "../assets/projects/workImg.jpeg";
+import portfolio from "../assets/projects/portfolio.jpg";
+import dicegame from "../assets/projects/dice_game.jpg";
+import cityskyline from "../assets/projects/city_skyline.jpg";
+import balancesheet from "../assets/projects/balance_sheet.jpg";
+import magazine from "../assets/projects/magazine.jpg";
 
 const Work = () => {
     return(
@@ -14,13 +18,13 @@ const Work = () => {
 
                     {/**Grid item */}
                     <div 
-                    style={{backgroundImage: `url(${working})`}} 
+                    style={{backgroundImage: `url(${portfolio})`}} 
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100"> 
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                                Portfolio using REACT
                             </span>
 
                             <div>
@@ -32,32 +36,13 @@ const Work = () => {
                     </div>
 
                     <div 
-                    style={{backgroundImage: `url(${working})`}} 
+                    style={{backgroundImage: `url(${dicegame})`}} 
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100"> 
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
-                            </span>
-
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
-                            </div>
-                            
-                        </div>
-                    </div>
-
-
-                    <div 
-                    style={{backgroundImage: `url(${working})`}} 
-                    className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
-
-                        {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                                Dice-Game using HTML, CSS & JAVASCRIPT 
                             </span>
 
                             <div>
@@ -70,13 +55,13 @@ const Work = () => {
 
 
                     <div 
-                    style={{backgroundImage: `url(${working})`}} 
+                    style={{backgroundImage: `url(${balancesheet})`}} 
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100"> 
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                                Balance-Sheet using HTML & CSS
                             </span>
 
                             <div>
@@ -89,13 +74,32 @@ const Work = () => {
 
 
                     <div 
-                    style={{backgroundImage: `url(${working})`}} 
+                    style={{backgroundImage: `url(${cityskyline})`}} 
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100"> 
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                React JS Application
+                                City-Skyline using HTML & CSS
+                            </span>
+
+                            <div>
+                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+
+                    <div 
+                    style={{backgroundImage: `url(${magazine})`}} 
+                    className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+
+                        {/**Hover Effects */}
+                        <div className="opacity-0 group-hover:opacity-100"> 
+                            <span className="text-2xl font-bold text-white tracking-wider">
+                                Magazine using HTML & CSS(Flexbox)
                             </span>
 
                             <div>
