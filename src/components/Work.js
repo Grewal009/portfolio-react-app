@@ -28,8 +28,8 @@ const Work = () => {
                             </span>
 
                             <div className="w-[300px] flex justify-center">
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
+                                <a href="" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href="https://github.com/Grewal009/portfolio-react-app" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -46,8 +46,8 @@ const Work = () => {
                             </span>
 
                             <div className="w-[300px] flex justify-center">
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
+                                <a href="https://grewal009.github.io/Dice-Game/" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href="https://github.com/Grewal009/Dice-Game" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -65,8 +65,8 @@ const Work = () => {
                             </span>
 
                             <div className="w-[300px] flex justify-center">
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
+                                <a href="https://grewal009.github.io/Balance-Sheet/" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href="https://github.com/Grewal009/Balance-Sheet" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -84,8 +84,8 @@ const Work = () => {
                             </span>
 
                             <div className="w-[300px] flex justify-center">
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
+                                <a href="https://grewal009.github.io/City-Skyline/" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href="https://github.com/Grewal009/City-Skyline" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -103,8 +103,8 @@ const Work = () => {
                             </span>
 
                             <div className="w-[300px] flex justify-center">
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
+                                <a href="https://grewal009.github.io/Magazine/" target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href="https://github.com/Grewal009/Magazine"  target="_blank"><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
