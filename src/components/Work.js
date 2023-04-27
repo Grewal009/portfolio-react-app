@@ -23,7 +23,7 @@ const Work = () => {
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
-                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px]">
                                 Portfolio using REACT
                             </span>
 
@@ -41,7 +41,7 @@ const Work = () => {
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
-                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px]">
                                 Dice-Game using HTML, CSS & JAVASCRIPT 
                             </span>
 
@@ -60,7 +60,7 @@ const Work = () => {
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
-                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px]">
                                 Balance-Sheet using HTML & CSS
                             </span>
 
@@ -79,7 +79,7 @@ const Work = () => {
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
-                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px]">
                                 City-Skyline using HTML & CSS
                             </span>
 
@@ -98,7 +98,7 @@ const Work = () => {
 
                         {/**Hover Effects */}
                         <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
-                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px]">
                                 Magazine using HTML & CSS(Flexbox)
                             </span>
 
