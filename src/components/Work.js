@@ -22,14 +22,14 @@ const Work = () => {
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
+                        <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
                                 Portfolio using REACT
                             </span>
 
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            <div className="w-[300px] flex justify-center">
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -40,14 +40,14 @@ const Work = () => {
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
+                        <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
                                 Dice-Game using HTML, CSS & JAVASCRIPT 
                             </span>
 
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            <div className="w-[300px] flex justify-center">
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -59,14 +59,14 @@ const Work = () => {
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
+                        <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
                                 Balance-Sheet using HTML & CSS
                             </span>
 
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            <div className="w-[300px] flex justify-center">
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -78,14 +78,14 @@ const Work = () => {
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
+                        <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
                                 City-Skyline using HTML & CSS
                             </span>
 
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            <div className="w-[300px] flex justify-center">
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
@@ -97,14 +97,14 @@ const Work = () => {
                     className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
 
                         {/**Hover Effects */}
-                        <div className="opacity-0 group-hover:opacity-100"> 
-                            <span className="text-2xl font-bold text-white tracking-wider">
+                        <div className="opacity-0 group-hover:opacity-100 flex flex-col items-center"> 
+                            <span className="text-xl font-bold text-white tracking-wider flex justify-center w-[280px] border-2 border-red-500">
                                 Magazine using HTML & CSS(Flexbox)
                             </span>
 
-                            <div>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Demo</button></a>
-                                <a href=""><button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-300 font-bold text-lg">Code</button></a>
+                            <div className="w-[300px] flex justify-center">
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-280 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Demo</button></a>
+                                <a href=""><button className="text-center rounded-lg px-3 py-1 m-2 bg-white text-gray-300 font-bold text-lg outline outline-offset-2 outline-2 hover:text-gray-600 ">Code</button></a>
                             </div>
                             
                         </div>
